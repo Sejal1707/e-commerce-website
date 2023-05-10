@@ -1,4 +1,4 @@
-# LaptopShop
+#Laptop Shop
 
 An ecommerce web application project which is based springboot and angular.
 
