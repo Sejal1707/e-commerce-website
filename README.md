@@ -1,6 +1,5 @@
 # LaptopShop
 
-# LaptopShop
 Laptop Shop is web application project. which is based springboot and angular.
 Technologies used:
  1. Spring Boot(Backend) 
